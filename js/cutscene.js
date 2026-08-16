@@ -2987,7 +2987,7 @@
                 { text: "Tav... I miss the guy. I hope he's doing well, wherever he is.", portrait: "resources/player.png"},
                 { text: "You two were... friends? Didn't you kill him though?", portrait: "resources/aleph.png"},
                 { text: "Yeah. It was a while ago. He was the first celestial I've ever encountered. He was the kindest soul ever.", portrait: "resources/player.png"},
-                { text: "He was created by other celestial who wanted to use him for their own selfish desires.", portrait: "resources/player.png"},
+                { text: "He was created by other celestials who wanted to use him for their own selfish desires.", portrait: "resources/player.png"},
                 { text: "He never got to live a life as a human. He wanted to be freed. He wanted to be saved, but I could only do that by killing him.", portrait: "resources/player.png"},
                 { text: "Wow... I'm sorry. Sorry for what my kind has done.", portrait: "resources/aleph.png"},
                 { text: "It's alright. You seem to be one of the good ones, I hope.", portrait: "resources/player.png"},
